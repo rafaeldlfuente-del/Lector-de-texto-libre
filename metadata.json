@@ -1,0 +1,6 @@
+{
+  "name": "Lector de Texto",
+  "description": "Lector de texto a voz limpio y sin publicidad, con selección de voces, control de tono y velocidad, resaltado de palabras y guardado de archivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
